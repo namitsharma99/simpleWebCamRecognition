@@ -59,7 +59,7 @@ public class IdentifyMe {
 
 		boolean isMatchFound = comparePics(reference, subject);
 
-		System.out.println("Are images having at least 20 % similarities ? " + isMatchFound);
+		System.out.println("Are images having at least 50 % similarities ? " + isMatchFound);
 
 	}
 
